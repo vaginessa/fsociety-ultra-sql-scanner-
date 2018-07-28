@@ -46,4 +46,24 @@ SSDeep 98304:5qoTnIpIewYEIT/mezx/MvIZkrZPas07FfwgsK3QmtkjDa6YJ:go8pwtIT/9/WdP07f
 
 TRiD ELF Executable and Linkable format (Linux) (50.1%) ELF Executable and Linkable format (generic) (49.8%)
 
+Class ELF64
+
+Data 2's complement, little endian
+
+Header Version 1 (current)
+
+OS ABI UNIX - System V
+
+ABI Version 0
+
+Object File Type EXEC (Executable file)
+
+Required Architecture Advanced Micro Devices X86-64
+
+Object File Version 0x1
+
+Program Headers 8
+
+Section Headers 29
+
 =================================================================================================
