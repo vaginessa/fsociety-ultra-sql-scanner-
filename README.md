@@ -1,2 +1,17 @@
-# fsociety-ultra-sql-scanner-
-fsociety ultra sql scanner 
+# fsociety-ultra-sql-scanner-for-windows
+
+---------------------------------------------------------------
+fsociety ultra sql scanner is a modified tool of fsociety tool.
+---------------------------------------------------------------
+
+-----------------------------------------------------------------------------------------------------------------------------------
+for use this tool :
+1. select number 7 (private tool)
+2. enter IP of website
+3. select number 8 and press enter
+4. wait and enjoy
+
+----------------------------------------------------------------------------------------------------------------------------------
+remark:
+the scan can take many of times.
+-----------------------------------------------------------------------------------------------------------------------------------
